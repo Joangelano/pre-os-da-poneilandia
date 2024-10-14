@@ -1,0 +1,24 @@
+.btn-orange{
+    background-color: rgb(255, 0, 157);
+    color: #fff;
+
+}
+
+.btn-orange:hover{
+    background-color: darkorange;
+    color: #fff;
+}
+
+
+.card-body{
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.card-title {
+    background-color: rgb(54, 221, 233);
+    
+
+}
+
